@@ -7,9 +7,9 @@
 - 💬 Ask me about **web and mobile app development**, and **artificial intelligence**.
 
 ## Technologies
-- Mobile Development: 📱 Flutter
-- Web Development: 💻 React
-- Backend: 🛠 Flask
+- Mobile Development: 📱 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+- Web Development: 💻 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+- Backend: 🛠 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
 ## Fun Fact
 - 🎮 When I'm not coding, you can find me scaling mountains or conquering virtual worlds!
