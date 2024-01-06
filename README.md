@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Tymur 👋
 
-<!--
-**TymurBondar/TymurBondar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm a 20-year-old **AI Enthusiast** and developer skilled in **Flutter, React, and Flask**.
+- 🎸 In my free time, I love playing the guitar, rock climbing, and immersing myself in video games.
+- 💬 Ask me about **web and mobile app development**, and **artificial intelligence**.
 
-Here are some ideas to get you started:
+## Technologies
+- Mobile Development: 📱 Flutter
+- Web Development: 💻 React
+- Backend: 🛠 Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+- 🎮 When I'm not coding, you can find me scaling mountains or conquering virtual worlds!
+
+---
+
+Feel free to connect with me here on GitHub or through my social media channels!
