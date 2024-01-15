@@ -2,7 +2,7 @@
 # Hi there, I'm Tymur 👋
 
 ## About Me
-- 🌱 I'm a 20-year-old **AI Enthusiast** and developer skilled in **Flutter, React, and Flask**.
+- 🌱 I'm an **AI Enthusiast** and developer skilled in **Flutter, React, and Flask**.
 - 🎸 In my free time, I love playing the guitar, rock climbing, and immersing myself in video games.
 - 💬 Ask me about **web and mobile app development**, and **artificial intelligence**.
 
