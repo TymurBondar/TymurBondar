@@ -16,4 +16,4 @@
 
 ---
 
-Feel free to connect with me here on GitHub or through my social media channels!
+Feel free to connect with me through my social media channels or you can email tymurbondar@outlook.com!
